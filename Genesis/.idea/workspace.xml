@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d1868ea-77f5-470a-b027-05309a149f9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/codeStyles/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_common_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_core_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_database_16_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_15_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_impl_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_12_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_license_12_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_5_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/libraries/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/drawable/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-anydpi-v26/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/debug/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/ViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/CustomToast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/ForgotPassword_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Login_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Main2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Main3Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Main4Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Main_menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Mode/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Mode/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Navigate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/NavigationDrawerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/SignUp_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/com/login_signup_screendesign_demo/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/cycle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/left_enter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/left_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/right_enter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/right_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/anim/shake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/confirm_password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/drawer_shadow.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/ic_drawer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/logo_write.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-hdpi/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-mdpi/drawer_shadow.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-mdpi/ic_drawer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xhdpi/ic_drawer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xxhdpi/ic_drawer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/analytics1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/bill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/loginbutton_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/sente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/sente2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/sente3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/sente4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/sente5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/drawable/text_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/font/amaranth_bold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/font/baloo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/font/comicz.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/font/days_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/font/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/font/myfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/activity_main3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/activity_main4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/activity_main_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/activity_navigate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/custom_toast.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/drawer_navigate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/forgotpassword_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/fragment_navigate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/login_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/signup_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/layout/viewpager_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/menu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/menu/global.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/menu/navigate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values-w820dp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/import-summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_signup_screendesign_demo/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-605165715">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Navigate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/NavigationDrawerFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/SignUp_Fragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/ViewPagerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-873">
+              <folding>
+                <element signature="e#0#1554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/font_certs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Tutorial 1/Hello_Tost" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/CustomToast.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/ForgotPassword_Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Login_Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Main2Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Main3Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Main4Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Main_menu.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Navigate.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/NavigationDrawerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/SignUp_Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/genesis/Utils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="genesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Genesis" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d1868ea-77f5-470a-b027-05309a149f9d" name="Default Changelist" comment="" />
+      <created>1554634115129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554634115129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32907802" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Preview" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/CustomToast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/ForgotPassword_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Login_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Main2Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Main3Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Main4Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Main_menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Navigate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/NavigationDrawerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/SignUp_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/genesis/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ViewPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-873">
+          <folding>
+            <element signature="e#0#1554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/font_certs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
